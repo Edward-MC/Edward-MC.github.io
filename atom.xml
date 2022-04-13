@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Meng Chen</title>
   
-  <subtitle>算法码上来</subtitle>
+  <subtitle>Coding!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
@@ -10,7 +10,7 @@
   <id>https://godweiyang.com/</id>
   
   <author>
-    <name>韦阳</name>
+    <name>Meng Chen</name>
     
   </author>
   
