@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2022-04-13T05:57:34.807Z</updated>
+  <updated>2022-04-13T19:36:41.142Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://godweiyang.com/2020/01/14/5w2h-godweiyang/"/>
-    <id>https://godweiyang.com/2020/01/14/5w2h-godweiyang/</id>
-    <published>2020-01-14T20:27:31.000Z</published>
-    <updated>2022-04-13T05:57:34.807Z</updated>
+    <title>Binary Search</title>
+    <link href="https://godweiyang.com/2022/04/13/binary-search/"/>
+    <id>https://godweiyang.com/2022/04/13/binary-search/</id>
+    <published>2022-04-13T20:36:12.000Z</published>
+    <updated>2022-04-13T19:36:41.142Z</updated>
     
     <summary type="html">
     
@@ -29,20 +29,68 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;When？什么时候开始写的？&quot;&gt;&lt;a
+          &lt;h2 id=&quot;二分问题&quot;&gt;&lt;a href=&quot;#二分问题&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="LeetCode" scheme="https://godweiyang.com/categories/LeetCode/"/>
     
     
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="LeetCode" scheme="https://godweiyang.com/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Add by Bit</title>
+    <link href="https://godweiyang.com/2022/04/13/add-by-bit/"/>
+    <id>https://godweiyang.com/2022/04/13/add-by-bit/</id>
+    <published>2022-04-13T20:35:01.000Z</published>
+    <updated>2022-04-13T19:35:40.645Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;逐位相加模板&quot;&gt;&lt;a href=&quot;#逐位相加模板&quot; class=&quot;headerlink&quot; title=&quot;逐位相加模板&quot;&gt;&lt;/a&gt;逐位相加模板&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-c++&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="https://godweiyang.com/categories/LeetCode/"/>
+    
+    
+      <category term="LeetCode" scheme="https://godweiyang.com/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dynamic Program</title>
+    <link href="https://godweiyang.com/2022/04/13/dynamic-program/"/>
+    <id>https://godweiyang.com/2022/04/13/dynamic-program/</id>
+    <published>2022-04-13T20:23:40.000Z</published>
+    <updated>2022-04-13T19:29:00.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Dynamic-Programming&quot;&gt;&lt;a href=&quot;#Dynamic-Programming&quot; class=&quot;headerlink&quot; title=&quot;Dynamic Programming&quot;&gt;&lt;/a&gt;Dynamic Programming&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="https://godweiyang.com/categories/LeetCode/"/>
+    
+    
+      <category term="LeetCode" scheme="https://godweiyang.com/tags/LeetCode/"/>
     
   </entry>
   
