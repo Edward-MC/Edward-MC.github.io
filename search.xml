@@ -33,9 +33,21 @@
       <link href="/2022/04/15/unsolved-problems/"/>
       <url>/2022/04/15/unsolved-problems/</url>
       
-        <content type="html"><![CDATA[<ul><li><p>LeetCode 148 Sort List: </p><blockquote><p>这题需要看穿要用什么方法排序链表，最方便的算法是归并排序，因为链表无法索引，但是交换位置却与数组一样快。</p></blockquote></li><li><p>LeetCode 179 Largest Number: </p><blockquote><p>这里其实运用sort就可以，但是需要注意的是字典序是什么样的，以及c++里面比较字典序的方法。字典序其实就是在两个string之间逐位比较ascall大小，在c++中比较字典序可以直接用&gt;,&lt;。</p></blockquote></li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li><p>LeetCode 148 Sort List: </p><blockquote><p>这题需要看穿要用什么方法排序链表，最方便的算法是归并排序，因为链表无法索引，但是交换位置却与数组一样快。</p></blockquote></li><li><p>LeetCode 179 Largest Number: </p><blockquote><p>这里其实运用sort就可以，但是需要注意的是字典序是什么样的，以及c++里面比较字典序的方法。字典序其实就是在两个string之间逐位比较ascall大小，在c++中比较字典序可以直接用&gt;,&lt;。</p></blockquote></li></ul><p>-LeetCode 206 Reverse Linked List</p><blockquote><p>The error I made here is that when I add fake pre-head pointers, I add a Listnode without value, rather than nullptr. It will cause error “heap use after free” since the node I new will be free after the program. It actually should be a nullptr, and make the original head point to it.</p></blockquote>]]></content>
       
       
+      <categories>
+          
+          <category> LeetCode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LeetCode </tag>
+            
+        </tags>
       
     </entry>
     
