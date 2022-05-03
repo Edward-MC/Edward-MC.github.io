@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2022-04-13T19:36:41.142Z</updated>
+  <updated>2022-04-15T21:34:00.631Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Random Walk Down Wall Street</title>
+    <link href="https://godweiyang.com/2022/04/15/a-random-walk-down-wall-street/"/>
+    <id>https://godweiyang.com/2022/04/15/a-random-walk-down-wall-street/</id>
+    <published>2022-04-15T22:14:02.000Z</published>
+    <updated>2022-04-15T21:34:00.631Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Chapter-1&quot;&gt;&lt;a href=&quot;#Chapter-1&quot; class=&quot;headerlink&quot; title=&quot;Chapter 1&quot;&gt;&lt;/a&gt;Chapter
+        
+      
+    
+    </summary>
+    
+      <category term="Books" scheme="https://godweiyang.com/categories/Books/"/>
+    
+    
+      <category term="Books Finace" scheme="https://godweiyang.com/tags/Books-Finace/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First Time - Problems</title>
+    <link href="https://godweiyang.com/2022/04/15/unsolved-problems/"/>
+    <id>https://godweiyang.com/2022/04/15/unsolved-problems/</id>
+    <published>2022-04-15T04:52:28.000Z</published>
+    <updated>2022-04-15T21:36:33.927Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;LeetCode 148 Sort List:
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Binary Search</title>
